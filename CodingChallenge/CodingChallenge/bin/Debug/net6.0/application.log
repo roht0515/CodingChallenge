@@ -29,3 +29,6 @@
 [2024-09-10 00:41:08] [INFO] User logged in
 [2024-09-10 00:41:08] [WARNING] Failed login attempt
 [2024-09-10 00:41:08] [CRITICAL] User is blocked
+[2024-09-10 10:00:55] [INFO] User logged in
+[2024-09-10 10:00:55] [WARNING] Failed login attempt
+[2024-09-10 10:00:55] [CRITICAL] User is blocked

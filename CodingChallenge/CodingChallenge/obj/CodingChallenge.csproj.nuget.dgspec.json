@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\59160\\source\\repos\\CodingChallenge\\CodingChallenge\\CodingChallenge\\CodingChallenge.csproj": {}
+    "C:\\Users\\59160\\source\\repos\\123\\CodingChallenge\\CodingChallenge\\CodingChallenge.csproj": {}
   },
   "projects": {
-    "C:\\Users\\59160\\source\\repos\\CodingChallenge\\CodingChallenge\\CodingChallenge\\CodingChallenge.csproj": {
+    "C:\\Users\\59160\\source\\repos\\123\\CodingChallenge\\CodingChallenge\\CodingChallenge.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\59160\\source\\repos\\CodingChallenge\\CodingChallenge\\CodingChallenge\\CodingChallenge.csproj",
+        "projectUniqueName": "C:\\Users\\59160\\source\\repos\\123\\CodingChallenge\\CodingChallenge\\CodingChallenge.csproj",
         "projectName": "CodingChallenge",
-        "projectPath": "C:\\Users\\59160\\source\\repos\\CodingChallenge\\CodingChallenge\\CodingChallenge\\CodingChallenge.csproj",
+        "projectPath": "C:\\Users\\59160\\source\\repos\\123\\CodingChallenge\\CodingChallenge\\CodingChallenge.csproj",
         "packagesPath": "C:\\Users\\59160\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\59160\\source\\repos\\CodingChallenge\\CodingChallenge\\CodingChallenge\\obj\\",
+        "outputPath": "C:\\Users\\59160\\source\\repos\\123\\CodingChallenge\\CodingChallenge\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\59160\\AppData\\Roaming\\NuGet\\NuGet.Config",

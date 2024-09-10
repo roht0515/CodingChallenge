@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vJwIZJkamBzhxpHVhyW5BONx93KD5hDNuP6MlcBGEzj4jT/+00y7bYXsvUZhtyylZ8cqMQjTF4eHVTiYnI6/Zw==",
+  "dgSpecHash": "8iA1HHJ1XkKyoRaMovojLVN5VJQhDVlpu0d8ZSUdv2LmO76qNcUThNw0CKx9EolfRRA551bTDFMhHSIvdr8jBg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\59160\\source\\repos\\CodingChallenge\\CodingChallenge\\CodingChallenge\\CodingChallenge.csproj",
+  "projectFilePath": "C:\\Users\\59160\\source\\repos\\123\\CodingChallenge\\CodingChallenge\\CodingChallenge.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\59160\\.nuget\\packages\\nunit\\4.2.2\\nunit.4.2.2.nupkg.sha512",
     "C:\\Users\\59160\\.nuget\\packages\\nunit3testadapter\\4.6.0\\nunit3testadapter.4.6.0.nupkg.sha512"

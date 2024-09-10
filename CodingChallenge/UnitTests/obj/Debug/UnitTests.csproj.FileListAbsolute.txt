@@ -27,3 +27,7 @@ C:\Users\59160\source\repos\CodingChallenge\UnitTests\bin\Debug\System.ValueTupl
 C:\Users\59160\source\repos\CodingChallenge\UnitTests\obj\Debug\UnitTests.csproj.CopyComplete
 C:\Users\59160\source\repos\CodingChallenge\UnitTests\obj\Debug\UnitTests.dll
 C:\Users\59160\source\repos\CodingChallenge\UnitTests\obj\Debug\UnitTests.pdb
+C:\Users\59160\source\repos\CodingChallenge\CodingChallenge\UnitTests\obj\Debug\UnitTests.csproj.AssemblyReference.cache
+C:\Users\59160\source\repos\CodingChallenge\CodingChallenge\UnitTests\obj\Debug\UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\59160\source\repos\CodingChallenge\CodingChallenge\UnitTests\obj\Debug\UnitTests.dll
+C:\Users\59160\source\repos\CodingChallenge\CodingChallenge\UnitTests\obj\Debug\UnitTests.pdb
